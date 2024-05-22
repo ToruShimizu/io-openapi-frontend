@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@torushimizu/io-openapi-client": "1.0.0",
+    "@torushimizu/io-openapi-client": "npm:@ToruShimizu/io-openapi-client@^1.0.0-ae39f2a.202405220946",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18"
